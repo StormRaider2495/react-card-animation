@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "^7.4.5",
+    "react": "16.8.0",
+    "react-dom": "16.8.0",
+    "react-spring": "8.0.25",
+    "react-use-gesture": "5.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
